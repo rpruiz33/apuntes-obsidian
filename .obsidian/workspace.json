@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "11c973ed97db6e2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5
   },
   "right": {
     "id": "8931867d17e1af03",
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +151,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "419727d932968106",
+  "active": "11c973ed97db6e2c",
   "lastOpenFiles": [
+    "RESUMEN DE TABLAS DE DECISION.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Tablas de decisión II-Classroom.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
+    "APUNTES OBSIDIAN/iso/guia de la 1 a 7.pdf",
     "APUNTES OBSIDIAN/BD1/grupo 11 - copia.sql",
     "APUNTES OBSIDIAN/BD1/version 3.4.2 g11.mwb.bak",
     "APUNTES OBSIDIAN/BD1/version 3.4 g11.mwb.bak",
@@ -155,10 +166,6 @@
     "APUNTES OBSIDIAN/BD1/version 3.4 g11.mwb",
     "APUNTES OBSIDIAN/BD1/version 3.3 g11.mwb",
     "APUNTES OBSIDIAN/BD1/version 3.2 g11.mwb",
-    "APUNTES OBSIDIAN/BD1/version 3.1 g11.mwb.beforefix",
-    "APUNTES OBSIDIAN/BD1/version 3.1 g11.mwb.bak",
-    "APUNTES OBSIDIAN/BD1/version 3.1 g11.mwb",
-    "APUNTES OBSIDIAN/BD1/version 3 g11.mwb.bak",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md"
+    "APUNTES OBSIDIAN/BD1/version 3.1 g11.mwb.beforefix"
   ]
 }

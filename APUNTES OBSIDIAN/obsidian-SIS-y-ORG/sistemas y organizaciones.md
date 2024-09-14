@@ -7,3 +7,4 @@
 [[obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf]]
 [[obsidian-SIS-y-ORG/pdfs/Tablas de decisión II-Classroom.pdf]]
 [[PERT Y GANT]]
+[[RESUMEN DE TABLAS DE DECISION]]
