@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "499cd8f059ef5823",
+    "type": "split",
+    "children": [
+      {
+        "id": "1afa1288463ddc4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb7f4aebe27b238",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6adca7bc93c4b0b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5922aff025adf039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d1fef73d659228",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f0ac135aaf3ca76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38394a968e45c56d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75b777b4da66c00b",
+    "type": "split",
+    "children": [
+      {
+        "id": "84bc1b06b584c3ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc6031a16508afb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62b1124cf041487e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "801f093280a60b75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d331fe460388aff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "73d1fef73d659228",
+  "lastOpenFiles": [
+    "obsidian-SIS-y-ORG/pdfs/Tablas de decisión II-Classroom.pdf",
+    "obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
+    "obsidian-SIS-y-ORG/pdfs/Proceso E2E.pdf",
+    "obsidian-SIS-y-ORG/pdfs/Organización y Metodos-UNLa.pdf",
+    "obsidian-SIS-y-ORG/pdfs/Herramientas-C4-Entrevistas.pdf",
+    "obsidian-SIS-y-ORG/pdfs/Estructuras-Mintzberg.pdf",
+    "obsidian-SIS-y-ORG/pdfs/El_Sistema_de_Control_Interno.pdf",
+    "obsidian-SIS-y-ORG/pdfs/El_Sistema_de_Control_Interno (1).pdf",
+    "obsidian-SIS-y-ORG/pdfs/Ejercicio de Pert-Gantt.xlsx",
+    "obsidian-SIS-y-ORG/pdfs/Departamentalización-mintzberg.pdf",
+    "obsidian-SIS-y-ORG/pdfs/coso_2.pdf",
+    "obsidian-SIS-y-ORG/sistemas y organizaciones.md",
+    "obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
+    "obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md",
+    "obsidian-SIS-y-ORG/Resumen Detallado de Diseño de Organizaciones Eficientes de Henry Mintzberg.md",
+    "obsidian-SIS-y-ORG/PERT Y GANT.md",
+    "obsidian-SIS-y-ORG/El cambio del poder.md",
+    "Resumen Detallado de Diseño de Organizaciones Eficientes de Henry Mintzberg.md",
+    "Reestructurando Empresas de Serra y Kastika.md",
+    "resumen Mintzberg.md",
+    "Sin título.md"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "243f81a66eadf278",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c980726276ff674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "419727d932968106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31ed36fb6218e66d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4474b153afc3ce33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12346a197ca63ca6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40cd3da4e14571dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "568e26d418315b78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8931867d17e1af03",
+    "type": "split",
+    "children": [
+      {
+        "id": "e984348df3a3f1c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a5a4ec449b0163",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f5210e42b53933b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d1c96af6b08fd28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4267d951234de143",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "419727d932968106",
+  "lastOpenFiles": [
+    "APUNTES OBSIDIAN/BD1/grupo 11 - copia.sql",
+    "APUNTES OBSIDIAN/BD1/version 3.4.2 g11.mwb.bak",
+    "APUNTES OBSIDIAN/BD1/version 3.4 g11.mwb.bak",
+    "APUNTES OBSIDIAN/BD1/version 3.4.1 g11.mwb",
+    "APUNTES OBSIDIAN/BD1/version 3.4 g11.mwb",
+    "APUNTES OBSIDIAN/BD1/version 3.3 g11.mwb",
+    "APUNTES OBSIDIAN/BD1/version 3.2 g11.mwb",
+    "APUNTES OBSIDIAN/BD1/version 3.1 g11.mwb.beforefix",
+    "APUNTES OBSIDIAN/BD1/version 3.1 g11.mwb.bak",
+    "APUNTES OBSIDIAN/BD1/version 3.1 g11.mwb",
+    "APUNTES OBSIDIAN/BD1/version 3 g11.mwb.bak",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md"
+  ]
+}
