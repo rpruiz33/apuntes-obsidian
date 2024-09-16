@@ -23,8 +23,15 @@
             "id": "11c973ed97db6e2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "resumen roberto.canvas",
+                "viewState": {
+                  "x": -420,
+                  "y": -97,
+                  "zoom": 0
+                }
+              }
             }
           }
         ],
@@ -94,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "resumen roberto.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "resumen roberto.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "resumen roberto.canvas"
+              }
             }
           }
         ]
@@ -151,21 +162,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "11c973ed97db6e2c",
+  "active": "12346a197ca63ca6",
   "lastOpenFiles": [
-    "RESUMEN DE TABLAS DE DECISION.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Tablas de decisión II-Classroom.pdf",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
     "APUNTES OBSIDIAN/iso/guia de la 1 a 7.pdf",
+    "resumen roberto.canvas",
+    "Pasted image 20240916052715.png",
+    "Pasted image 20240916052647.png",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN DE TABLAS DE DECISION.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Tablas de decisión II-Classroom.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Proceso E2E.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Organización y Metodos-UNLa.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/coso_2.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/~$Ejercicio de Pert-Gantt.xlsx",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md",
     "APUNTES OBSIDIAN/BD1/grupo 11 - copia.sql",
     "APUNTES OBSIDIAN/BD1/version 3.4.2 g11.mwb.bak",
-    "APUNTES OBSIDIAN/BD1/version 3.4 g11.mwb.bak",
-    "APUNTES OBSIDIAN/BD1/version 3.4.1 g11.mwb",
-    "APUNTES OBSIDIAN/BD1/version 3.4 g11.mwb",
-    "APUNTES OBSIDIAN/BD1/version 3.3 g11.mwb",
-    "APUNTES OBSIDIAN/BD1/version 3.2 g11.mwb",
-    "APUNTES OBSIDIAN/BD1/version 3.1 g11.mwb.beforefix"
+    "APUNTES OBSIDIAN/BD1/version 3.4 g11.mwb.bak"
   ]
 }
