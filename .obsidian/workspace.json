@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resumen roberto.canvas",
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resumen roberto.canvas",
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resumen roberto.canvas"
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md"
               }
             }
           }
@@ -146,48 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "floating": {
-    "id": "fa502d032a712d3b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d647d7befaf424f9",
-        "type": "window",
-        "children": [
-          {
-            "id": "a66a771b1b3930b1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "11c973ed97db6e2c",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "resumen roberto.canvas",
-                    "viewState": {
-                      "x": -490,
-                      "y": -1940,
-                      "zoom": -0.6666666666666666
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1527,
-        "y": 4,
-        "width": 981,
-        "height": 680,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "11c973ed97db6e2c",
+  "active": "419727d932968106",
   "lastOpenFiles": [
+    "resumen roberto.canvas",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Estructuras-Mintzberg.pdf",
@@ -197,7 +158,6 @@
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Reestructurando empresas - Serra y Kastika - cap 2.pdf",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Resumen Mintzberg.pdf",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Departamentalización-mintzberg.pdf",
-    "resumen roberto.canvas",
     "Pasted image 20240916160748.png",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/El_Sistema_de_Control_Interno (1).pdf",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Proceso E2E.pdf",

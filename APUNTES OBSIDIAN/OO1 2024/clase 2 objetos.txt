@@ -1,0 +1,4 @@
+las validaciones van  en el set por ejemplo 2 de 1 a 120 años
+cuando hacemos un constuctor que pase por el set
+while para busquedas for sin interrumpir
+equals para comparar entre objetos
