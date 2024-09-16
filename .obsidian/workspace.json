@@ -13,29 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "11c973ed97db6e2c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "resumen roberto.canvas",
-                "viewState": {
-                  "x": -420,
-                  "y": -97,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,25 +146,66 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "12346a197ca63ca6",
+  "floating": {
+    "id": "fa502d032a712d3b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d647d7befaf424f9",
+        "type": "window",
+        "children": [
+          {
+            "id": "a66a771b1b3930b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "11c973ed97db6e2c",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "resumen roberto.canvas",
+                    "viewState": {
+                      "x": -735,
+                      "y": -1969.8359375,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1432,
+        "y": 27,
+        "width": 981,
+        "height": 680,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "11c973ed97db6e2c",
   "lastOpenFiles": [
-    "APUNTES OBSIDIAN/iso/guia de la 1 a 7.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
     "resumen roberto.canvas",
+    "Pasted image 20240916160748.png",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Departamentalización-mintzberg.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Resumen Mintzberg.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/El_Sistema_de_Control_Interno (1).pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Herramientas-C4-Entrevistas.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Organización y Metodos-UNLa.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Proceso E2E.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Reestructurando empresas - Serra y Kastika - cap 2.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Tablas de decisión II-Classroom.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/El cambio del Poder-Cap 15 al 19.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
     "Pasted image 20240916052715.png",
     "Pasted image 20240916052647.png",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN DE TABLAS DE DECISION.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Tablas de decisión II-Classroom.pdf",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Proceso E2E.pdf",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Organización y Metodos-UNLa.pdf",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/coso_2.pdf",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/~$Ejercicio de Pert-Gantt.xlsx",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md",
-    "APUNTES OBSIDIAN/BD1/grupo 11 - copia.sql",
-    "APUNTES OBSIDIAN/BD1/version 3.4.2 g11.mwb.bak",
-    "APUNTES OBSIDIAN/BD1/version 3.4 g11.mwb.bak"
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md"
   ]
 }

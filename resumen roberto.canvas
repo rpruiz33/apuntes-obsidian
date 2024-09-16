@@ -1,8 +1,10 @@
 {
 	"nodes":[
-		{"id":"73cad0576195de10","type":"file","file":"Pasted image 20240916052715.png","x":-620,"y":-40,"width":400,"height":206},
-		{"id":"511fe4dbc18252d2","type":"file","file":"Pasted image 20240916052647.png","x":-620,"y":-240,"width":400,"height":111},
-		{"id":"c13bfdf9af9d251e","type":"text","text":"                                                         \n                                                         tablas de decicion","x":-545,"y":-360,"width":250,"height":60}
+		{"id":"511fe4dbc18252d2","type":"file","file":"Pasted image 20240916052647.png","x":-1120,"y":-220,"width":400,"height":111},
+		{"id":"73cad0576195de10","type":"file","file":"Pasted image 20240916052715.png","x":-1120,"y":-60,"width":400,"height":206},
+		{"id":"c13bfdf9af9d251e","type":"text","text":"                                                         \n                                                         tablas de decicion","x":-1045,"y":-380,"width":250,"height":80},
+		{"id":"d89da292d12dcb85","x":-1360,"y":-2080,"width":400,"height":289,"type":"file","file":"Pasted image 20240916160748.png"},
+		{"id":"095791a57f2186ec","x":-920,"y":-2180,"width":780,"height":480,"type":"text","text":"1. Fundamentos del Diseño de Estructuras Organizativas\n\nMintzberg sostiene que las organizaciones se coordinan utilizando cinco mecanismos básicos:\n\n- Ajuste mutuo: Logra la coordinación a través de la comunicación informal. Es común en organizaciones pequeñas o equipos que manejan situaciones complicadas, donde es necesario que las personas se comuniquen directamente.\n    \n- Supervisión directa: Una persona toma responsabilidad por el trabajo de otras, emite instrucciones y supervisa su ejecución.\n    \n- Estandarización de procesos de trabajo: Los procesos se programan o especifican con antelación, como ocurre con cirujanos en una operación, que ya saben lo que deben hacer sin necesidad de coordinarse constantemente.\n    \n- Estandarización de resultados: Se coordinan las acciones en función de los resultados esperados, como en el caso de un taxista que sabe que debe llevar al pasajero a un destino, pero no necesita recibir instrucciones detalladas.\n    \n- Estandarización de destrezas: Se asegura la coordinación mediante la capacitación previa de los trabajadores. Esta estandarización se refiere a las habilidades y conocimientos que las personas adquieren antes de ingresar a la organización.\n    "}
 	],
 	"edges":[]
 }
