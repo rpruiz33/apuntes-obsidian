@@ -8,3 +8,5 @@
 [[obsidian-SIS-y-ORG/pdfs/Tablas de decisión II-Classroom.pdf]]
 [[PERT Y GANT]]
 [[RESUMEN DE TABLAS DE DECISION]]
+[[Mintzberg notas]]
+
