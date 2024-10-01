@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U3b- Administracion de Entrada-Salida - RAID (1).pdf"
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 419.5
   },
   "right": {
     "id": "8931867d17e1af03",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Mintzberg notas.md",
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Mintzberg notas.md",
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Mintzberg notas.md"
+                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf"
               }
             }
           }
@@ -172,8 +172,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 465,
-        "y": 32,
+        "x": 1446,
+        "y": 86,
         "width": 981,
         "height": 680,
         "maximize": false,
@@ -181,35 +181,34 @@
       }
     ]
   },
-  "active": "419727d932968106",
+  "active": "ae450cf55a57f50f",
   "lastOpenFiles": [
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Resumen Mintzberg.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Resumen Detallado de Diseño de Organizaciones Eficientes de Henry Mintzberg.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN DE TABLAS DE DECISION.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Mintzberg notas.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
+    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO-Guia-de-Ejercicios U5.pdf",
+    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U5b- Administracion de Memoria Virtual.pdf",
+    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO-GE5-Administracion-de-Memoria.pdf",
+    "APUNTES OBSIDIAN/iso/guia de la 1 a 7.pdf",
+    "APUNTES OBSIDIAN/OO1 2024/BUENAS PRACTICAS PÁRA EL PARCIAL.md",
+    "APUNTES OBSIDIAN/OO1 2024/oo12024.md",
+    "Pasted image 20240916160748.png",
+    "resumen roberto.canvas",
+    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U4b- Planificacion de Procesos - MultiTheading.pdf",
+    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U4a- Planificacion de Procesos (1).pdf",
+    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U3b- Administracion de Entrada-Salida - RAID.pdf",
     "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U3b- Administracion de Entrada-Salida - RAID (1).pdf",
     "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U4a- Planificacion de Procesos.pdf",
-    "APUNTES OBSIDIAN/iso/guia de la 1 a 7.pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U3b- Administracion de Entrada-Salida - RAID.pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U3a- Administracion de Entrada-Salida (1).pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U3a- Administracion de Entrada-Salida.pdf",
-    "resumen roberto.canvas",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Mintzberg notas.md",
-    "Pasted image 20240916160748.png",
     "Pasted image 20240916052647.png",
     "Pasted image 20240916052715.png",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
     "APUNTES OBSIDIAN/OO1 2024/Sin título.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Resumen Mintzberg.pdf",
     "Sin título.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/El_Sistema_de_Control_Interno (1).pdf",
-    "obsidian-SIS-y-ORG/pdfs/El_Sistema_de_Control_Interno.pdf.md",
-    "obsidian-SIS-y-ORG/pdfs",
-    "obsidian-SIS-y-ORG",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
-    "APUNTES OBSIDIAN/OO1 2024/oo12024.md",
-    "APUNTES OBSIDIAN/OO1 2024/BUENAS PRACTICAS PÁRA EL PARCIAL.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN DE TABLAS DE DECISION.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Resumen Detallado de Diseño de Organizaciones Eficientes de Henry Mintzberg.md"
+    "obsidian-SIS-y-ORG/pdfs/El_Sistema_de_Control_Interno.pdf.md"
   ]
 }
