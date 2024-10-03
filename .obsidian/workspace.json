@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "788afe4f0d1c859e",
+        "id": "f3572c551fd62a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae450cf55a57f50f",
+            "id": "ed94481e6fa79733",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf"
+                "file": "APUNTES OBSIDIAN/OO1 2024/OO1-2024- Guía 4 (Métodos Estáticos y Excepciones).pdf"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 333.5
   },
   "right": {
     "id": "8931867d17e1af03",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
+                "file": "APUNTES OBSIDIAN/OO1 2024/OO1-2024- Guía 4 (Métodos Estáticos y Excepciones).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
+                "file": "APUNTES OBSIDIAN/OO1 2024/OO1-2024- Guía 4 (Métodos Estáticos y Excepciones).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf"
+                "file": "APUNTES OBSIDIAN/OO1 2024/OO1-2024- Guía 4 (Métodos Estáticos y Excepciones).pdf"
               }
             }
           }
@@ -144,67 +144,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "floating": {
-    "id": "610bcc0521429a6e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bf7ac6c0dc152cb1",
-        "type": "window",
-        "children": [
-          {
-            "id": "9b78aaf90ce895a3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "419727d932968106",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Mintzberg notas.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1446,
-        "y": 86,
-        "width": 981,
-        "height": 680,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ae450cf55a57f50f",
+  "active": "12346a197ca63ca6",
   "lastOpenFiles": [
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Resumen Mintzberg.pdf",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Resumen Detallado de Diseño de Organizaciones Eficientes de Henry Mintzberg.md",
+    "APUNTES OBSIDIAN/OO1 2024/OO1_Recuperatorio_2020_TNoche.pdf",
     "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN DE TABLAS DE DECISION.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Mintzberg notas.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
-    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO-Guia-de-Ejercicios U5.pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U5b- Administracion de Memoria Virtual.pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO-GE5-Administracion-de-Memoria.pdf",
-    "APUNTES OBSIDIAN/iso/guia de la 1 a 7.pdf",
     "APUNTES OBSIDIAN/OO1 2024/BUENAS PRACTICAS PÁRA EL PARCIAL.md",
     "APUNTES OBSIDIAN/OO1 2024/oo12024.md",
-    "Pasted image 20240916160748.png",
+    "APUNTES OBSIDIAN/OO1 2024/OO1-2024-Guia Nro 5 (Herencia - Parte 1).pdf",
+    "APUNTES OBSIDIAN/iso/guia de la 1 a 7.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/laudon_SIG10_c11esp.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Departamentalización-mintzberg.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Club-BPM-Webinar-DesarrolloConocimientosyCapacidadesEnBPM.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Proceso E2E.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Guia-Cloud-Computing.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Relevamiento-UNLZ.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/Reestructurando empresas - Serra y Kastika - cap 2.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/notas.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/PERT Y GANT.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/Resumen Detallado de Diseño de Organizaciones Eficientes de Henry Mintzberg.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/RESUMEN Serra y Kastika.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/ROBERTO RESUMEN Mintzberg.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/sistemas y organizaciones.md",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/pdfs/coso_2 (1).pdf",
+    "2024-10-01.md",
     "resumen roberto.canvas",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U4b- Planificacion de Procesos - MultiTheading.pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U4a- Planificacion de Procesos (1).pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U3b- Administracion de Entrada-Salida - RAID.pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U3b- Administracion de Entrada-Salida - RAID (1).pdf",
-    "APUNTES OBSIDIAN/iso/INTRO SO 2024/IaSO -U4a- Planificacion de Procesos.pdf",
+    "APUNTES OBSIDIAN/obsidian-SIS-y-ORG/El cambio del poder.md",
+    "Pasted image 20240916160748.png",
     "Pasted image 20240916052647.png",
     "Pasted image 20240916052715.png",
     "APUNTES OBSIDIAN/OO1 2024/Sin título.md",
